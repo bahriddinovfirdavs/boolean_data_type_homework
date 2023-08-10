@@ -7,6 +7,6 @@ def main(a):
         bool
     """
     # Write your code here
-    return  abs(a)*(-1)
-# print(main())
+    return  a<0
+
       
