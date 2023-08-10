@@ -10,6 +10,6 @@ def main(a,b):
     # Write your code here
     return a==b
     
-print(main(a=int(input()),b=int(input())))
+print(main())
     
     
