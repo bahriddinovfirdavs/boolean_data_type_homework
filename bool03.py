@@ -7,4 +7,3 @@ def main(b):
     """
     # Write your code here
     return abs(b)
-print(main())

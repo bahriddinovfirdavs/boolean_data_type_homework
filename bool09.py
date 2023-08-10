@@ -7,4 +7,3 @@ def main(a):
     """
     # Write your code here
     return 0<=a
-print(main())
