@@ -6,5 +6,5 @@ def main(b):
         bool
     """
     # Write your code here
-    return abs(b)*(-1)
+    return abs(b)
 print(main(int(input())))
