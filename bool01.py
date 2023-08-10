@@ -10,6 +10,6 @@ def main(a,b):
     # Write your code here
     return a==b
     
-print(main())
+print(main(9,9))
     
     
