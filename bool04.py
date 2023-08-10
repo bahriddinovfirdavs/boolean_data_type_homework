@@ -8,5 +8,5 @@ def main(a):
     """
     # Write your code here
     return  abs(b)*(-1)
-print(main(int(input())))
+print(main())
       
