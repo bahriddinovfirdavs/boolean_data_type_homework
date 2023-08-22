@@ -7,4 +7,3 @@ def main(a):
     """
     # Write your code here
     return int(a)==a and a>0
-print(main(int(input())))
