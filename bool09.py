@@ -6,4 +6,5 @@ def main(a):
         bool
     """
     # Write your code here
-    return int(a)==a and a>0
+    return type(1)==type(a) and a>0
+
